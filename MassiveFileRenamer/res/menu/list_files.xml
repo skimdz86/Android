@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+	<item android:id="@+id/action_up_one_level"
+          android:icon="@drawable/ic_action_up_one_level"
+          android:title="@string/action_up_one_level" 
+          android:showAsAction="ifRoom"/>
+	<item android:id="@+id/action_rename"
+          android:icon="@drawable/ic_action_rename"
+          android:title="@string/action_rename" 
+          android:showAsAction="ifRoom"/>
+</menu>

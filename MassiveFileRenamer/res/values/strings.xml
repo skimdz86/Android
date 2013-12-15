@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MassiveFileRenamer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search">Search Files</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="listIntFiles">Search Internal Storage</string>
+    <string name="listExtFiles">Search External Storage</string>
+    <string name="listSystemFiles">Search System directory</string>
+    <string name="action_up_one_level">Up</string>
+    <string name="action_rename">Rename</string>
+    <string name="action_quit">Exit</string>
+    <string name="title_activity_rename">RenameActivity</string>
+    <!-- Filter rename -->
+    <string name="rename_type">How to rename</string>
+    <string name="list_filter">Filter names</string>
+    <string name="extension_filter">Filter extensions</string>
+    <string name="rename_pattern">What to replace</string>
+    <string name="rename_to">Substitute with</string>
+    <string name="rename_button">Rename!</string>
+	<!-- Combo -->
+    <string name="rename_type1">Trailing counter</string>
+    <string name="rename_type2">Leading counter</string>
+    <string name="rename_type3">Prefix</string>
+    <string name="rename_type4">Suffix</string>
+    <string name="rename_type5">Substitution</string>
+    
+    <!-- Styles -->
+    <color name="grey">#7d7b85</color>
+</resources>

@@ -1,0 +1,11 @@
+AdB
+
+adb devices
+
+adb -s nomedevice shell
+
+DA QUI COMANDI SUL DEVICE DIRETTAMENTE
+
+pm list permissions -g -->lista dei permessi esistenti (e quindi usabili)
+adb install  nome.apk -->Installa app
+adb push /path/to/local/file /mnt/sdcard/path/to/file --> copia di file (pull per scaricarli dal cell)
